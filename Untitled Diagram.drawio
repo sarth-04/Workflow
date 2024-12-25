@@ -63,7 +63,7 @@
         <mxCell id="ORhU1XM5uyNUmvRX6ED5-20" value="Query" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="455" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ORhU1XM5uyNUmvRX6ED5-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ORhU1XM5uyNUmvRX6ED5-22" value="User" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="650" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ORhU1XM5uyNUmvRX6ED5-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ORhU1XM5uyNUmvRX6ED5-22">
@@ -79,6 +79,12 @@
             <mxPoint x="560" y="562" as="sourcePoint" />
             <mxPoint x="565" y="650" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ORhU1XM5uyNUmvRX6ED5-30" value="Query" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="455" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ORhU1XM5uyNUmvRX6ED5-31" value="Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="590" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
